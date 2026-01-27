@@ -7,8 +7,9 @@ on:
         required: false
         type: string
   push:
-    branches:
-      - master
+    tags:
+      - 'v*'
+      - 'V*'
 
 env:
   OutputArch: "macos-64"
