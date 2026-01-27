@@ -1,4 +1,6 @@
-fork from [V2RayN](https://github.com/2dust/v2rayN)
+fork from [v2rayN](https://github.com/2dust/v2rayN)
+
+添加了一些自定义内容。
 
 # v2rayN
 
